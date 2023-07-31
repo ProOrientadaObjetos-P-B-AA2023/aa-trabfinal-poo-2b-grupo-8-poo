@@ -9,11 +9,7 @@ package CONTROLLER;
  * @author D E L L
  */
 
-import MODEL.PlanPostPagoMinutosMegas;
-import MODEL.PlanPostPagoMinutosMegasEconomico;
-import MODEL.PlanPostPagoMegas;
-import MODEL.PlanCelular;
-import MODEL.PlanPostPagoMinutos;
+import MODEL.*;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;

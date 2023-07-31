@@ -4,10 +4,7 @@
  */
 package CONTROLLER;
 
-import MODEL.PlanPostPagoMinutosMegas;
-import MODEL.PlanPostPagoMinutosMegasEconomico;
-import MODEL.PlanPostPagoMegas;
-import MODEL.PlanPostPagoMinutos;
+import MODEL.*;
 import java.util.Scanner;
 import static MODEL.Planes.*;
 public class ejecutor1 {
