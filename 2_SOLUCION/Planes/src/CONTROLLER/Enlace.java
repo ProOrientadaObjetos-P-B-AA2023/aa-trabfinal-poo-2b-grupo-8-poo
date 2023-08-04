@@ -25,7 +25,7 @@ public class Enlace {
     public void establecerConexion() {
 
         try {
-            String url = "jdbc:sqlite:bd/planes.bd";
+            String url = "jdbc:sqlite:bd/planes.db";
             conn = DriverManager.getConnection(url);
         } catch (SQLException e) {
             System.out.println("Linea 30: "+e.getMessage());
